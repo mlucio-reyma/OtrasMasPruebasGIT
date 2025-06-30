@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Herramientas
 {
-    public class Class1
+    public class Herramientas
     {
     }
 }
